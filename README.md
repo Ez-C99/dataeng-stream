@@ -51,7 +51,7 @@ Clone and run the streaming job (via terminal) as shown below:
 
 ```bash
 git clone https://github.com/Ez-C99/dataeng-stream-project
-cd beginner_de_project_stream
+cd dataeng-stream
 make run # restart all containers, & start streaming job
 ```
 
